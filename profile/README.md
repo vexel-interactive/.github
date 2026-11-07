@@ -13,7 +13,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/divider.svg" alt="" width="100%"> -->
 
-<img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/status.svg" alt="Status: private development" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/status.svg" alt="Status: private development" width="100%"> -->
 
 <br>
 <br>
