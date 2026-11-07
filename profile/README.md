@@ -11,7 +11,7 @@
 
 ![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-000000?style=for-the-badge&labelColor=000000&color=ffffff)
 ![Focus](https://img.shields.io/badge/FOCUS-GAME%20ENGINE-000000?style=for-the-badge&labelColor=000000&color=ffffff)
-![Graphics](https://img.shields.io/badge/GRAPHICS-DIRECTX%2012-000000?style=for-the-badge&labelColor=000000&color=ffffff)
+![Graphics](https://img.shields.io/badge/GRAPHICS-DIRECTX%2012%20%C2%B7%20VULKAN-000000?style=for-the-badge&labelColor=000000&color=ffffff)
 
 </div>
 
@@ -39,7 +39,7 @@ We care about three things: image quality, simulation fidelity, and a workflow t
   <tr>
     <td width="33%" valign="top">
       <h3>◢ ENGINE</h3>
-      A modern C++ engine on DirectX 12, built around ray tracing, physically based rendering, and a simulation-first approach to physics, water, and destruction.
+      A modern C++ engine on DirectX 12 and Vulkan, built around ray tracing, physically based rendering, and a simulation-first approach to physics, water, and destruction.
     </td>
     <td width="33%" valign="top">
       <h3>◢ TOOLS</h3>
