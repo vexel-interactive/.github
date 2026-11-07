@@ -4,12 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/divider.svg" alt="" width="100%">
 
-<p>
+<!-- <p>
   <b>Independent studio.</b><br>
   We build our own game engine, the tools around it, and the games on top.
 </p>
 
-<img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/build.svg" alt="What we build: engine, tools, games" width="100%">
+<img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/build.svg" alt="What we build: engine, tools, games" width="100%"> -->
 
 <img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/divider.svg" alt="" width="100%">
 
