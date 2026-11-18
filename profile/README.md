@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/banner.png" alt="Vexel Interactive" width="100%">
 
-<img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/divider.svg" alt="" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/vexel-interactive/.github/main/profile/divider.svg" alt="" width="100%"> -->
 
 <!-- <p>
   <b>Independent studio.</b><br>
@@ -18,6 +18,6 @@
 <br>
 <br>
 
-<sub>© Vexel Interactive. All rights reserved.</sub>
+<!-- <sub>© Vexel Interactive. All rights reserved.</sub> -->
 
 </div>
